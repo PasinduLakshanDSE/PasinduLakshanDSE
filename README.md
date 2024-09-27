@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_720_1280/0/1626934133895?e=1723680000&v=beta&t=D2JCqWFNSarEEEj_8eVMLt4SJqkuPeww4kbubOSHsAc)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Pasindu Lakshan</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
